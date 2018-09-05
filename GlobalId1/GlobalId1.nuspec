@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<package >
+  <metadata>
+    <id>GlobalId1</id>
+    <version>1.0.0.0</version>    
+    <authors>[Replace]</authors>
+    <owners>[Replace]</owners>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>[Replace]</description>
+    <releaseNotes>[Replace]</releaseNotes>
+    <copyright>>[Replace]</copyright>    
+  </metadata>
+</package>
